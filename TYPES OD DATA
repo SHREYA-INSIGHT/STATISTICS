@@ -1,1 +1,64 @@
+Types of Data
+
+Data is mainly classified into two categories:
+
+1. Quantitative Data (Numerical Data)
+
+Quantitative data consists of numerical values.
+
+(a) Discrete Data
+
+Discrete data contains countable whole numbers.
+
+Examples:
+
+Number of bank accounts
+Number of children in a family
+Number of students
+(b) Continuous Data
+
+Continuous data can take any numerical value within a range.
+
+Examples:
+
+Weight
+Height
+Temperature
+Speed
+Marks
+2. Qualitative Data (Categorical Data)
+
+Qualitative data describes categories or qualities.
+
+(a) Nominal Data
+
+Nominal data represents categories without any ranking.
+
+Examples:
+
+Gender
+Blood Group
+PIN Code
+City Name
+(b) Ordinal Data
+
+Ordinal data represents categories with a meaningful order or ranking.
+
+Examples:
+
+Customer Feedback:
+Poor
+Average
+Good
+Excellent
+Performance Rating
+Education Level
+Scales of Measurement of Data
+
+The four scales of measurement are:
+
+Nominal Scale – Categories without ranking.
+Ordinal Scale – Categories with ranking.
+Interval Scale – Equal intervals but no true zero (e.g., Temperature in °C).
+Ratio Scale – Equal intervals with a true zero (e.g., Height, Weight, Age).
 
