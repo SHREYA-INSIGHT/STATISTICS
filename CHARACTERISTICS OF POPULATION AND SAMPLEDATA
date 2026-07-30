@@ -1,0 +1,48 @@
+Characteristics of Population
+1. Complete Set
+
+A population contains all observations of interest.
+
+2. Parameter
+
+A parameter is a numerical value that summarizes the entire population.
+
+Examples:
+
+Population Mean (μ)
+Population Variance (σ²)
+Examples of Population
+1. Population in a School Study
+All students enrolled in a school.
+Used to determine the average score of all students.
+2. Population in Market ResearchZ*
+All consumers in a city.
+Used to understand purchasing behaviour.
+3. Population in a Medical Study
+All patients with a specific disease.
+Used to study the effectiveness of a drug.
+Characteristics of Sample Data
+1. Subset
+
+A sample represents only a portion of the population.
+
+2. Statistic
+
+A statistic is a numerical value summarizing sample data.
+
+Examples:
+
+Sample Mean
+Sample Variance
+3. Random Sampling
+
+Samples should be selected randomly to avoid bias.Examples of Sample
+1. School Study
+Sample: A group of 50 students from the school.
+Use Case: Estimate the average marks of all students using the sample mean.
+2. Market Research
+Sample: 500 consumers from a city.
+Purpose: Estimate the purchasing behaviour of the entire population.
+3. Medical Study
+Sample: 200 patients.
+Purpose: Test the effectiveness of a drug.
