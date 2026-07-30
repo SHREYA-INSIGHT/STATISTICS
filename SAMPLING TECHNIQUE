@@ -1,1 +1,83 @@
+Sampling techniques are classified into two categories:
 
+Probability Sampling
+Non-Probability Sampling
+Probability Sampling
+(a) Simple Random Sampling
+
+Every member of the population has an equal chance of being selected.
+
+Example:
+
+Selecting people randomly.
+Drawing names randomly from a class of students.
+(b) Systematic Sampling
+
+Every nᵗʰ member of the population is selected after choosing a random starting point.
+
+Examples:
+
+Airport survey: Give a credit card form to every 5th, 10th, or 20th passenger
+Feedback survey: Send a feedback email to every 10th customer.
+(c) Stratified Sampling
+
+The population is divided into strata (groups) based on similar characteristics, and random samples are selected from each group.
+
+Examples:
+
+Divide employees by department and randomly choose people from each department.
+Divide people by age groups:
+Below 12 years
+12–18 years
+Above 18 years
+Political surveys.
+(d) Cluster Sampling
+
+The population is divided into clusters, and some clusters are selected randomly. Every member within the selected clusters is surveyed.
+
+Example:Randomly selecting several schools from a district and surveying all teachers working in those schools.
+(e) Multistage Sampling
+
+A combination of different sampling methods.
+
+Usually, clusters are selected first, followed by random sampling within those clusters.
+
+Example:
+
+Randomly selecting cities.
+From each selected city, randomly selecting households for the survey.
+Non-Probability Sampling
+
+Individuals are selected based on convenience or the researcher's judgment.
+
+(a) Convenience Sampling
+
+Participants are selected because they are easy to reach.
+
+Example:Surveying people at a shopping mall.
+(b) Judgmental (Purposive) Sampling
+
+The researcher selects participants based on personal judgment or specific characteristics.
+
+Example:
+
+Choosing experienced employees for a survey.
+Selecting people with expertise in a particular field.
+(c) Snowball Sampling
+
+Existing participants recruit new participants from among their acquaintances.
+
+Example:
+
+Surveying people with a rare disease.
+(d) Quota Sampling
+
+Participants are selected until a fixed quota is reached for each category.
+
+Categories may include:Age
+Gender
+Occupation
+Caste
+Income Group
+
+Note: The choice of sampling technique depends on the research objective and use case.
