@@ -1,0 +1,101 @@
+1. Nominal Scale (नाम मात्र)
+Definition
+
+Data ko sirf categories (groups) me divide karta hai. Isme koi order nahi hota.
+
+Characteristics
+Qualitative data
+Sirf naming/classification
+No ranking
+No arithmetic operations
+Examples
+Gender (Male, Female)
+Blood Group (A, B, AB, O)
+Religion
+Eye Color
+City Name
+Statistics Allowed
+Frequency
+Percentage
+Mode
+
+2. Ordinal Scale (क्रम)
+Definition
+
+Data ko categories me divide karta hai aur order/ranking bhi hoti hai, lekin categories ke beech difference equal nahi hota.
+
+Characteristics
+Ranking possible
+Difference between ranks unknown
+No meaningful addition/subtraction
+Examples
+Class Rank (1st, 2nd, 3rd)
+Satisfaction Level
+Poor
+Average
+Good
+Excellent
+Education Level
+Medal (Gold, Silver, Bronze)
+Statistics Allowed
+Median
+Mode
+Percentile
+
+Interval Scale (अंतराल)
+Definition
+
+Order bhi hota hai aur equal intervals bhi hote hain, lekin true zero nahi hota.
+
+Characteristics
+Equal difference between values
+Zero does NOT mean absence
+Addition and subtraction possible
+Multiplication/division not meaningful
+Examples
+Temperature in Celsius
+Temperature in Fahrenheit
+Calendar Year
+IQ Score
+Statistics Allowed
+Mean
+Median
+Mode
+Standard Deviation
+Variance
+
+4. Ratio Scale (अनुपात)
+Definition
+
+Sabse powerful scale.
+
+Isme:
+
+Categories
+Order
+Equal intervals
+True zero
+
+Sab present hote hain.
+
+Characteristics
+True zero exists
+All mathematical operations possible
+Examples
+Height
+Weight
+Age
+Income
+Distance
+Time
+Number of Students
+Statistics Allowed
+Mean
+Median
+Mode
+Standard Deviation
+Variance
+Geometric Mean
+Harmonic Mean
+
+
