@@ -1,4 +1,4 @@
-1. Nominal Scale (नाम मात्र)
+1. Nominal Scale 
 Definition
 
 Data ko sirf categories (groups) me divide karta hai. Isme koi order nahi hota.
@@ -19,7 +19,7 @@ Frequency
 Percentage
 Mode
 
-2. Ordinal Scale (क्रम)
+2. Ordinal Scale
 Definition
 
 Data ko categories me divide karta hai aur order/ranking bhi hoti hai, lekin categories ke beech difference equal nahi hota.
@@ -42,7 +42,7 @@ Median
 Mode
 Percentile
 
-Interval Scale (अंतराल)
+Interval Scale 
 Definition
 
 Order bhi hota hai aur equal intervals bhi hote hain, lekin true zero nahi hota.
@@ -64,7 +64,7 @@ Mode
 Standard Deviation
 Variance
 
-4. Ratio Scale (अनुपात)
+4. Ratio Scale 
 Definition
 
 Sabse powerful scale.
