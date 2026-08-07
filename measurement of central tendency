@@ -1,0 +1,68 @@
+# Measure of Central Tendency
+
+Measures of Central Tendency describe the center point or typical value of a dataset.
+
+They provide a single value that summarizes a set of data by identifying the central position within the dataset.
+
+Types:
+1. Mean (Average)
+2. Median
+3. Mode
+
+---
+
+# Mean
+
+Mean = Sum of all values / Number of values
+
+## Population Mean (μ)
+
+Population Size = N
+
+Formula:
+
+            N
+           Σ Xi
+μ =        i=1
+     ------------
+           N
+
+Where:
+μ  = Population Mean
+N  = Population Size
+Xi = Individual Observation
+
+---
+
+## Sample Mean (x̄)
+
+Sample Size = n
+
+n ≤ N
+
+Formula:
+
+            n
+           Σ Xi
+x̄ =       i=1
+     ------------
+           n
+
+Where:
+x̄ = Sample Mean
+n  = Sample Size
+Xi = Individual Observation
+
+---
+
+Example:
+
+Data = [24, 32, 12, 48, 16, 20]
+
+Sum = 24 + 32 + 12 + 48 + 16 + 20 = 152
+
+Number of values = 6
+
+Mean = 152 / 6
+
+Mean = 25.33
